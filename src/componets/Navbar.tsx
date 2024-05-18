@@ -12,7 +12,7 @@ import React from "react";
 
 const Navbar = () => {
   return (
-    <Flex as="nav" p={5} alignItems={"center"}>
+    <Flex as="nav" p={5} alignItems={"center"}> 
       <Heading>Subs</Heading>
       <Spacer />
       <HStack>
